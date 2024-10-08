@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/wjmolina/tmp/compare/v0.2.0...v0.2.1) (2024-10-08)
+
+
+### Bug Fixes
+
+* foo ([919576b](https://github.com/wjmolina/tmp/commit/919576b1ca2270a94040e05fb9d4fa971d89886c))
+
 ## [0.2.0](https://github.com/wjmolina/tmp/compare/v0.1.0...v0.2.0) (2024-10-08)
 
 
