@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/wjmolina/tmp/compare/v0.2.1...v0.3.0) (2024-10-08)
+
+
+### Features
+
+* test ([53c4812](https://github.com/wjmolina/tmp/commit/53c4812c68bfc2c7a7567390d361924bd7dacb7c))
+
 ## [0.2.1](https://github.com/wjmolina/tmp/compare/v0.2.0...v0.2.1) (2024-10-08)
 
 
